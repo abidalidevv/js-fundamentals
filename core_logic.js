@@ -175,3 +175,4 @@
 // Fix memory leak - 2018-04-21 10:06:00
 // Add input validation - 2018-07-12 10:02:00
 // Refactor API calls - 2021-09-30 10:12:00
+// Add offline detection - 2017-06-04 10:08:00
