@@ -251,3 +251,4 @@
 // Add intersection observer - 2021-11-17 10:10:00
 // Add keyboard shortcut support - 2022-06-17 10:06:00
 // Fix scroll behavior - 2023-09-09 10:02:00
+// Improve error feedback - 2017-07-30 10:12:00
