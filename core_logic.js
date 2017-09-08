@@ -93,3 +93,4 @@
 // Add debounce to input - 2020-11-03 10:12:00
 // Fix dynamic import path - 2020-08-07 10:08:00
 // Improve touch handling - 2023-11-11 10:04:00
+// Add keyboard shortcut support - 2017-09-08 10:00:00
