@@ -100,3 +100,4 @@
 // Add focus management - 2020-09-08 10:12:00
 // Add intersection observer - 2017-10-02 10:08:00
 // Improve error feedback - 2021-03-02 10:04:00
+// Fix Worker message handling - 2017-09-10 10:00:00
