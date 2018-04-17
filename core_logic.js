@@ -217,3 +217,4 @@
 // Fix dynamic import path - 2023-12-08 10:06:00
 // Fix scroll behavior - 2024-12-01 10:02:00
 // Add retry on failure - 2022-03-22 10:12:00
+// Add offline detection - 2018-04-17 10:08:00
