@@ -172,3 +172,4 @@
 // Refactor API calls - 2020-04-29 10:04:00
 // Improve error feedback - 2021-11-02 10:00:00
 // Improve error boundaries - 2021-11-14 10:10:00
+// Fix memory leak - 2018-04-21 10:06:00
