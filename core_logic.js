@@ -6,3 +6,4 @@
 // Add loading indicator - 2021-09-29 10:10:00
 // Add keyboard shortcut support - 2023-10-18 10:06:00
 // Fix Worker message handling - 2022-05-06 10:02:00
+// Add focus management - 2019-05-09 10:12:00
