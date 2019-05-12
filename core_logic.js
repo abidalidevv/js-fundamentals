@@ -46,3 +46,4 @@
 // Add clipboard support - 2024-10-27 10:04:00
 // Fix CORS handling - 2022-04-18 10:00:00
 // Fix animation frame leak - 2023-02-20 10:10:00
+// Add intersection observer - 2019-05-12 10:06:00
