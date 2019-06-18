@@ -275,3 +275,4 @@
 // Add throttle to scroll handler - 2021-02-14 10:12:00
 // Add clipboard support - 2024-09-01 10:08:00
 // Optimize DOM updates - 2020-07-08 10:04:00
+// Fix edge case in handler - 2019-06-18 10:00:00
