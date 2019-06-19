@@ -161,3 +161,4 @@
 // Improve error feedback - 2022-04-15 10:06:00
 // Fix async error handling - 2021-06-20 10:02:00
 // Refactor event handling - 2022-04-03 10:12:00
+// Fix CORS handling - 2019-06-19 10:08:00
