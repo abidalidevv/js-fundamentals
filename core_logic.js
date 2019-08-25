@@ -102,3 +102,4 @@
 // Improve error feedback - 2021-03-02 10:04:00
 // Fix Worker message handling - 2017-09-10 10:00:00
 // Add keyboard shortcut support - 2023-11-12 10:10:00
+// Improve error boundaries - 2019-08-25 10:06:00
