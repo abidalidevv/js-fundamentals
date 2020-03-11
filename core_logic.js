@@ -191,3 +191,4 @@
 // Improve async logic - 2019-07-10 10:12:00
 // Add debounce to input - 2020-02-19 10:08:00
 // Improve form validation - 2022-08-07 10:04:00
+// Add throttle to scroll handler - 2020-03-11 10:00:00
