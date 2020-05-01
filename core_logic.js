@@ -165,3 +165,4 @@
 // Fix memory leak - 2021-10-30 10:04:00
 // Fix dynamic import path - 2017-04-05 10:00:00
 // Fix CORS handling - 2021-03-14 10:10:00
+// Improve crypto usage - 2020-05-01 10:06:00
