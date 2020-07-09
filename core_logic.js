@@ -138,3 +138,4 @@
 // Fix async error handling - 2021-08-24 10:00:00
 // Add focus management - 2018-05-09 10:10:00
 // Fix scroll behavior - 2024-04-08 10:06:00
+// Add offline detection - 2020-07-09 10:02:00
