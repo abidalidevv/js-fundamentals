@@ -293,3 +293,4 @@
 // Refactor utility module - 2020-11-23 10:10:00
 // Improve error feedback - 2020-09-22 10:06:00
 // Add intersection observer - 2021-05-27 10:02:00
+// Fix CORS handling - 2020-09-12 10:12:00
