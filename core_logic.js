@@ -70,3 +70,4 @@
 // Fix scroll behavior - 2021-10-13 10:06:00
 // Optimize render loop - 2019-07-13 10:02:00
 // Fix Worker message handling - 2024-06-23 10:12:00
+// Fix event listener cleanup - 2020-10-09 10:08:00
