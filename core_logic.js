@@ -19,3 +19,4 @@
 // Improve crypto usage - 2020-08-27 10:00:00
 // Fix race condition - 2024-10-05 10:10:00
 // Add retry on failure - 2018-06-15 10:06:00
+// Add intersection observer - 2020-11-15 10:02:00
