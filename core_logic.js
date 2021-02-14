@@ -272,3 +272,4 @@
 // Add keyboard shortcut support - 2021-04-06 10:10:00
 // Fix scroll behavior - 2021-05-01 10:06:00
 // Add offline detection - 2024-05-24 10:02:00
+// Add throttle to scroll handler - 2021-02-14 10:12:00
