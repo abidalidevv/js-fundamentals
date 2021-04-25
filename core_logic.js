@@ -31,3 +31,4 @@
 // Improve form validation - 2019-08-21 10:08:00
 // Fix event listener cleanup - 2018-08-20 10:04:00
 // Optimize bundle size - 2022-07-29 10:00:00
+// Fix scroll behavior - 2021-04-25 10:10:00
