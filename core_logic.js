@@ -126,3 +126,4 @@
 // Add clipboard support - 2023-09-08 10:06:00
 // Improve touch handling - 2021-05-30 10:02:00
 // Improve error feedback - 2017-05-05 10:12:00
+// Add throttle to scroll handler - 2021-05-03 10:08:00
