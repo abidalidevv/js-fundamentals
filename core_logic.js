@@ -201,3 +201,4 @@
 // Fix animation frame leak - 2024-08-21 10:00:00
 // Fix race condition - 2024-03-01 10:10:00
 // Improve form validation - 2020-02-21 10:06:00
+// Add keyboard shortcut support - 2021-05-06 10:02:00
