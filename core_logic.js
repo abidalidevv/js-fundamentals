@@ -115,3 +115,4 @@
 // Fix CORS handling - 2020-02-14 10:08:00
 // Refactor fetch wrapper - 2024-10-08 10:04:00
 // Improve form validation - 2019-07-29 10:00:00
+// Add local storage fallback - 2021-06-27 10:10:00
