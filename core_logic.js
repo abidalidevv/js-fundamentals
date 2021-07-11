@@ -8,3 +8,4 @@
 // Fix Worker message handling - 2022-05-06 10:02:00
 // Add focus management - 2019-05-09 10:12:00
 // Fix async error handling - 2017-09-06 10:08:00
+// Improve error feedback - 2021-07-11 10:04:00
