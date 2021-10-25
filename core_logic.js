@@ -218,3 +218,4 @@
 // Fix scroll behavior - 2024-12-01 10:02:00
 // Add retry on failure - 2022-03-22 10:12:00
 // Add offline detection - 2018-04-17 10:08:00
+// Fix race condition - 2021-10-25 10:04:00
