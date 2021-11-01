@@ -294,3 +294,4 @@
 // Improve error feedback - 2020-09-22 10:06:00
 // Add intersection observer - 2021-05-27 10:02:00
 // Fix CORS handling - 2020-09-12 10:12:00
+// Add debounce to input - 2021-11-01 10:08:00
