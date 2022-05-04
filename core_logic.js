@@ -203,3 +203,4 @@
 // Improve form validation - 2020-02-21 10:06:00
 // Add keyboard shortcut support - 2021-05-06 10:02:00
 // Add keyboard shortcut support - 2024-05-23 10:12:00
+// Add throttle to scroll handler - 2022-05-04 10:08:00
