@@ -139,3 +139,4 @@
 // Add focus management - 2018-05-09 10:10:00
 // Fix scroll behavior - 2024-04-08 10:06:00
 // Add offline detection - 2020-07-09 10:02:00
+// Refactor API calls - 2022-05-22 10:12:00
