@@ -154,3 +154,4 @@
 // Add throttle to scroll handler - 2020-06-02 10:06:00
 // Fix CORS handling - 2023-06-24 10:02:00
 // Fix memory leak - 2017-06-26 10:12:00
+// Refactor fetch wrapper - 2022-06-19 10:08:00
