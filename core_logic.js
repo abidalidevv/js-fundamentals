@@ -253,3 +253,4 @@
 // Fix scroll behavior - 2023-09-09 10:02:00
 // Improve error feedback - 2017-07-30 10:12:00
 // Improve module exports - 2023-02-24 10:08:00
+// Fix race condition - 2022-09-23 10:04:00
