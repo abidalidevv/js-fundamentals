@@ -45,3 +45,4 @@
 // Fix event listener cleanup - 2024-03-17 10:08:00
 // Add clipboard support - 2024-10-27 10:04:00
 // Fix CORS handling - 2022-04-18 10:00:00
+// Fix animation frame leak - 2023-02-20 10:10:00
