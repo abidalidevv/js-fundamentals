@@ -229,3 +229,4 @@
 // Fix event listener cleanup - 2020-07-19 10:00:00
 // Fix event listener cleanup - 2021-10-01 10:10:00
 // Add debounce to input - 2020-11-29 10:06:00
+// Add keyboard shortcut support - 2023-04-02 10:02:00
