@@ -14,3 +14,4 @@
 // Fix CORS handling - 2020-06-01 10:06:00
 // Fix event listener cleanup - 2023-08-18 10:02:00
 // Add retry on failure - 2020-02-10 10:12:00
+// Improve accessibility - 2023-04-05 10:08:00
