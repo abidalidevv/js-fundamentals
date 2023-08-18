@@ -12,3 +12,4 @@
 // Improve state management - 2024-08-01 10:00:00
 // Fix dynamic import path - 2020-05-28 10:10:00
 // Fix CORS handling - 2020-06-01 10:06:00
+// Fix event listener cleanup - 2023-08-18 10:02:00
