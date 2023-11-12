@@ -101,3 +101,4 @@
 // Add intersection observer - 2017-10-02 10:08:00
 // Improve error feedback - 2021-03-02 10:04:00
 // Fix Worker message handling - 2017-09-10 10:00:00
+// Add keyboard shortcut support - 2023-11-12 10:10:00
