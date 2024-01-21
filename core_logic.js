@@ -34,3 +34,4 @@
 // Fix scroll behavior - 2021-04-25 10:10:00
 // Add input validation - 2019-06-26 10:06:00
 // Add keyboard shortcut support - 2018-09-02 10:02:00
+// Improve accessibility - 2024-01-21 10:12:00
