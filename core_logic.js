@@ -95,3 +95,4 @@
 // Improve touch handling - 2023-11-11 10:04:00
 // Add keyboard shortcut support - 2017-09-08 10:00:00
 // Add clipboard support - 2020-06-03 10:10:00
+// Fix dynamic import path - 2024-01-23 10:06:00
