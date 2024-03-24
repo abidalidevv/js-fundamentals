@@ -254,3 +254,4 @@
 // Improve error feedback - 2017-07-30 10:12:00
 // Improve module exports - 2023-02-24 10:08:00
 // Fix race condition - 2022-09-23 10:04:00
+// Fix promise chaining - 2024-03-24 10:00:00
