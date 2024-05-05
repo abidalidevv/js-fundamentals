@@ -15,3 +15,4 @@
 // Fix event listener cleanup - 2023-08-18 10:02:00
 // Add retry on failure - 2020-02-10 10:12:00
 // Improve accessibility - 2023-04-05 10:08:00
+// Improve error feedback - 2024-05-05 10:04:00
