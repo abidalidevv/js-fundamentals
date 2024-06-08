@@ -78,3 +78,4 @@
 // Improve touch handling - 2021-06-23 10:02:00
 // Add clipboard support - 2018-08-13 10:12:00
 // Fix memory leak - 2020-08-26 10:08:00
+// Fix animation frame leak - 2024-06-08 10:04:00
