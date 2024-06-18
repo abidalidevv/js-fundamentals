@@ -194,3 +194,4 @@
 // Add throttle to scroll handler - 2020-03-11 10:00:00
 // Fix dynamic import path - 2021-03-21 10:10:00
 // Fix memory leak - 2018-09-07 10:06:00
+// Add retry on failure - 2024-06-18 10:02:00
