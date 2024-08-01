@@ -9,3 +9,4 @@
 // Add focus management - 2019-05-09 10:12:00
 // Fix async error handling - 2017-09-06 10:08:00
 // Improve error feedback - 2021-07-11 10:04:00
+// Improve state management - 2024-08-01 10:00:00
