@@ -221,3 +221,4 @@
 // Fix race condition - 2021-10-25 10:04:00
 // Add focus management - 2024-04-19 10:00:00
 // Improve module exports - 2021-06-26 10:10:00
+// Improve error feedback - 2024-11-03 10:06:00
