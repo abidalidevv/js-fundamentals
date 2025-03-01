@@ -349,3 +349,5 @@ const throttle = (fn, limit) => { let inT; return (...a) => { if (!inT) { fn(...
 const sleep = ms => new Promise(res => setTimeout(res, ms));
 
 const unique = arr => [...new Set(arr)];
+
+const sleep = ms => new Promise(res => setTimeout(res, ms));
