@@ -323,3 +323,5 @@ const range = (s, e, step=1) => { const r=[]; for(let i=s;i<e;i+=step) r.push(i)
 const clamp = (v, min, max) => Math.min(Math.max(v, min), max);
 
 const sleep = ms => new Promise(res => setTimeout(res, ms));
+
+const sleep = ms => new Promise(res => setTimeout(res, ms));
