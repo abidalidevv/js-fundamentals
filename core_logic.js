@@ -299,3 +299,5 @@
 const pick = (obj, keys) => Object.fromEntries(keys.filter(k=>k in obj).map(k=>[k,obj[k]]));
 
 const debounce = (fn, delay) => { let t; return (...a) => { clearTimeout(t); t = setTimeout(() => fn(...a), delay); }; };
+
+async function fetchJSON(url, options={}) { const r=await fetch(url,options); if(!r.ok) throw new Error(`HTTP ${r.status}`); return r.json(); }
