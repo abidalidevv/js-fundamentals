@@ -353,3 +353,5 @@ const unique = arr => [...new Set(arr)];
 const sleep = ms => new Promise(res => setTimeout(res, ms));
 
 async function fetchJSON(url, options={}) { const r=await fetch(url,options); if(!r.ok) throw new Error(`HTTP ${r.status}`); return r.json(); }
+
+const formatCurrency = (n, cur='USD') => new Intl.NumberFormat('en-US',{style:'currency',currency:cur}).format(n);
