@@ -327,3 +327,5 @@ const sleep = ms => new Promise(res => setTimeout(res, ms));
 const sleep = ms => new Promise(res => setTimeout(res, ms));
 
 const deepClone = obj => JSON.parse(JSON.stringify(obj));
+
+const pick = (obj, keys) => Object.fromEntries(keys.filter(k=>k in obj).map(k=>[k,obj[k]]));
