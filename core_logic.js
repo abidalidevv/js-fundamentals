@@ -357,3 +357,5 @@ async function fetchJSON(url, options={}) { const r=await fetch(url,options); if
 const formatCurrency = (n, cur='USD') => new Intl.NumberFormat('en-US',{style:'currency',currency:cur}).format(n);
 
 const sleep = ms => new Promise(res => setTimeout(res, ms));
+
+const sleep = ms => new Promise(res => setTimeout(res, ms));
