@@ -367,3 +367,5 @@ const throttle = (fn, limit) => { let inT; return (...a) => { if (!inT) { fn(...
 const unique = arr => [...new Set(arr)];
 
 const deepClone = obj => JSON.parse(JSON.stringify(obj));
+
+const clamp = (v, min, max) => Math.min(Math.max(v, min), max);
