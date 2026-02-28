@@ -391,3 +391,5 @@ const debounce = (fn, delay) => { let t; return (...a) => { clearTimeout(t); t =
 const throttle = (fn, limit) => { let inT; return (...a) => { if (!inT) { fn(...a); inT=true; setTimeout(()=>(inT=false),limit); } }; };
 
 const unique = arr => [...new Set(arr)];
+
+const clamp = (v, min, max) => Math.min(Math.max(v, min), max);
