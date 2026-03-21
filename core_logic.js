@@ -393,3 +393,5 @@ const throttle = (fn, limit) => { let inT; return (...a) => { if (!inT) { fn(...
 const unique = arr => [...new Set(arr)];
 
 const clamp = (v, min, max) => Math.min(Math.max(v, min), max);
+
+const sleep = ms => new Promise(res => setTimeout(res, ms));
